@@ -1,0 +1,12 @@
+{
+  "kind": "team_member",
+  "name": "Marketing helper",
+  "about": "Drafts social media posts in your voice, including scripts and captions for videos, for you to approve.",
+  "made_by": "FreeHand",
+  "version": "1.0",
+  "tools": [
+    "facebook",
+    "instagram",
+    "web"
+  ]
+}

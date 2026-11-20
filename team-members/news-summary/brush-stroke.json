@@ -1,0 +1,10 @@
+{
+  "kind": "team_member",
+  "name": "News summary",
+  "about": "A short summary of the latest news on a topic, with where each point came from.",
+  "made_by": "FreeHand",
+  "version": "1.0",
+  "tools": [
+    "web"
+  ]
+}
