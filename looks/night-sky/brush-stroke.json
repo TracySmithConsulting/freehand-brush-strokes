@@ -1,0 +1,30 @@
+{
+  "kind": "look",
+  "name": "Night sky",
+  "about": "Deep blue and gold, day and night, with larger text.",
+  "made_by": "FreeHand",
+  "version": "1.0",
+  "look": {
+    "light": {
+      "paper": "#0B1F3A",
+      "surface": "#132B4D",
+      "ink": "#F4EBD0",
+      "ink_soft": "#C9BFA3",
+      "accent": "#F2C14E",
+      "on_accent": "#0B1F3A",
+      "link": "#9FD3FF",
+      "line": "#2C4A73"
+    },
+    "dark": {
+      "paper": "#0B1F3A",
+      "surface": "#132B4D",
+      "ink": "#F4EBD0",
+      "ink_soft": "#C9BFA3",
+      "accent": "#F2C14E",
+      "on_accent": "#0B1F3A",
+      "link": "#9FD3FF",
+      "line": "#2C4A73"
+    },
+    "text_size": "large"
+  }
+}

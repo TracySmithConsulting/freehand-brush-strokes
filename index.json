@@ -20,6 +20,27 @@
       "name": "Packing list",
       "about": "Makes a packing list for a trip.",
       "version": "1.0"
+    },
+    {
+      "path": "voices/gogo",
+      "kind": "voice",
+      "name": "Gogo",
+      "about": "A warm, patient voice that takes its time, like a favourite grandmother.",
+      "version": "1.0"
+    },
+    {
+      "path": "looks/big-and-clear",
+      "kind": "look",
+      "name": "Big and clear",
+      "about": "FreeHand's own colours with darker writing, and larger text.",
+      "version": "1.0"
+    },
+    {
+      "path": "looks/night-sky",
+      "kind": "look",
+      "name": "Night sky",
+      "about": "Deep blue and gold, day and night, with larger text.",
+      "version": "1.0"
     }
   ]
 }
