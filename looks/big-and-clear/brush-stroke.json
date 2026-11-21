@@ -1,0 +1,30 @@
+{
+  "kind": "look",
+  "name": "Big and clear",
+  "about": "FreeHand's own colours with darker writing, and larger text.",
+  "made_by": "FreeHand",
+  "version": "1.0",
+  "look": {
+    "light": {
+      "paper": "#FBF4E6",
+      "surface": "#FFFDF6",
+      "ink": "#211D18",
+      "ink_soft": "#5C5245",
+      "accent": "#7A3B69",
+      "on_accent": "#FFFFFF",
+      "link": "#145A50",
+      "line": "#E4D8C3"
+    },
+    "dark": {
+      "paper": "#221E1A",
+      "surface": "#2C2620",
+      "ink": "#F5EEDF",
+      "ink_soft": "#C9BBA5",
+      "accent": "#E7A8D6",
+      "on_accent": "#221E1A",
+      "link": "#7FD1C1",
+      "line": "#4A4038"
+    },
+    "text_size": "larger"
+  }
+}
